@@ -1,5 +1,5 @@
 <img align="right" height="500px" src="https://raw.githubusercontent.com/gist/Carolinuz/9c4642eb1f823bad4227b1f3554eec4f/raw/131c604c9f6a123ed84293192d3789d292fd0a9d/githubcard.svg"/>
-<h1 align="left">Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carolina!</h1>
+<h1 align="left">Hi There<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carolina!</h1>
 <h3 align="left">Front End Developer - Graphic Designer</h3>
 <br><br><br><br><br>
 
